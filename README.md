@@ -1,2 +1,2 @@
 # LotteryPrediction
-彩票预测系统
+主支线彩票预测系统
